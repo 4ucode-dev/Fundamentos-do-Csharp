@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Threading;
 
-namespace Stopwatch04
+namespace Stopwatch05
 {
     class Program
     {
