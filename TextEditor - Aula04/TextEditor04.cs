@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace TextEditor03
+namespace TextEditor04
 {
     class Program
     {
